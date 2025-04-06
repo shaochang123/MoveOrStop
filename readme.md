@@ -1,0 +1,2 @@
+Stop when you coincide with the blue line and keep moving when you coincide with the orange line. <br>
+These two attacks are inspired by the blue attack and orange attack of <b>[Undertale](https://undertale.com/)</b><br>
